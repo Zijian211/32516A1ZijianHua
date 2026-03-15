@@ -46,6 +46,6 @@ I built a single-page e-commerce application that allows users to browse electro
 *   **Responsive Design**: Ensuring the UI looked good and functioned well across all devices was a challenge, especially with complex components like the shopping cart drawer and order history. I used Tailwind's responsive utilities to adjust layouts and styles based on screen size.
 
 ## Live Demo & Links
-*   **Live Demo**: [Zijian's E-Commerce Platform](https://zijian-ecommerce.vercel.app/)
+*   **Live Demo**: [Zijian's E-Commerce Platform](https://32516-a1-zijian-hua.vercel.app/)
 *   **Backend Database API** [FastAPI - Swagger UI](https://three2516a1zijianhua.onrender.com/docs) (May take 30-60s to wake up, but I set Uptime Robot to keep it almost 24/7 operation)
 *   **GitHub Repository**: [Zijian's E-Commerce GitHub](https://github.com/Zijian211/32516A1ZijianHua)
